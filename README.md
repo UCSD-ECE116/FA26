@@ -10,7 +10,7 @@ Use the [Canvas course](https://canvas.ucsd.edu/courses/78439) for the syllabus 
 
 Lecture slides are released seven days before the lecture. Assignment handouts and starter packages are released seven days before the assigned/start date. Files appear here only after release review and approval. A missing future file is not an instruction to locate another branch or an instructor solution.
 
-The first materials are scheduled for September 17, 2026. No lecture slides or assignment packages have been released yet.
+M00-M05 are now available as [early preview lecture PDFs](Lectures/README.md), published September 5 at the instructor's request. M00 still contains older grading and cadence slides; the Canvas syllabus is the current policy reference. Assignment packages and later lectures remain unreleased and keep their planned release dates.
 
 | Assignment | Package preview date | Assigned/start date | Due, 7 p.m. Pacific |
 |---|---|---|---|
