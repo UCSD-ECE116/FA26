@@ -1,6 +1,7 @@
 # Lecture PDFs
 
-M00-M05 are available as early preview PDFs at the instructor's request, published September 5, 2026. These files may be updated at the same links. Later lecture PDFs remain unreleased.
+M00 is the approved Class Introduction, locked September 6, 2026. M01-M05 remain early preview
+PDFs, first published September 5. Later lecture PDFs remain unreleased.
 
 | Module | PDF | Pages |
 |---|---|---:|
@@ -11,8 +12,6 @@ M00-M05 are available as early preview PDFs at the instructor's request, publish
 | M04 | [Learning Patterns from Examples](M04_Learning_Patterns_from_Examples.pdf) | 27 |
 | M05 | [What Counts as Evidence](M05_What_Counts_as_Evidence.pdf) | 18 |
 
-## Current policy takes precedence
-
-M00's existing grading and cadence slides have not yet been updated. Use the [Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus) for current policy: A1-A5 each count 16%, the oral examination counts 20%, and there is no participation grade. Tuesday lectures are on Zoom; Thursday labs are in person. Week 0 includes M00/M01 and Lab 0.
-
-These are static slide exports, without speaker notes or editable source files. Draft content and minor source-layout issues remain under review. Use the pinned assignment instructions for hardware and tool settings.
+These are static slide exports, without speaker notes or editable source files. M01-M05 remain
+under instructor review. Use the [Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus)
+for course policy and the released assignment handouts for hardware and tool settings.
