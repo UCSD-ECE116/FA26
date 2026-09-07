@@ -10,7 +10,14 @@ Use the [Canvas course](https://canvas.ucsd.edu/courses/78439) for the syllabus 
 
 Lecture slides are released seven days before the lecture. Assignment handouts and starter packages are released seven days before the assigned/start date. Files appear here only after release review and approval. A missing future file is not an instruction to locate another branch or an instructor solution.
 
-M00-M05 are now available as [early preview lecture PDFs](Lectures/README.md), published September 5 at the instructor's request. M00 still contains older grading and cadence slides; the Canvas syllabus is the current policy reference. Assignment packages and later lectures remain unreleased and keep their planned release dates.
+The following materials are available:
+
+- [A1: Deterministic Embedded Intelligence](Assignments/A1/README.md)
+- [M00-M05 early preview lecture PDFs](Lectures/README.md)
+
+M00 still contains older grading and cadence slides; the Canvas syllabus is the current policy
+reference. A2-A5 packages and later lectures remain unreleased and keep their planned release
+dates.
 
 | Assignment | Package preview date | Assigned/start date | Due, 7 p.m. Pacific |
 |---|---|---|---|
@@ -19,6 +26,9 @@ M00-M05 are now available as [early preview lecture PDFs](Lectures/README.md), p
 | A3 | October 16 | October 23 | November 6 |
 | A4 | October 30 | November 6 | November 20 |
 | A5 | November 13 | November 20 | December 4 |
+
+A1 was released early on September 6 at the instructor's request. Its Canvas availability date
+remains September 17.
 
 The Canvas syllabus defines the automatic grace period, late deduction, and Monday hard close. Each assignment contributes 16% of the course grade; the individually scheduled oral examination contributes 20%. There is no participation grade.
 
