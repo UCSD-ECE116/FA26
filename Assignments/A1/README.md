@@ -5,7 +5,7 @@ finite-state behavior, and visible output.
 
 ## Download the starter package
 
-[Download `ECE116_FA26_A1_Starter_v1.0.0.zip`](https://github.com/UCSD-ECE116/FA26/releases/download/fa26-a1-v1.0.0/ECE116_FA26_A1_Starter_v1.0.0.zip)
+[Download `ECE116_FA26_A1_Starter_v1.0.0.zip`](ECE116_FA26_A1_Starter_v1.0.0.zip?raw=1)
 
 - Release: `fa26-a1-v1.0.0`
 - Published: September 6, 2026
