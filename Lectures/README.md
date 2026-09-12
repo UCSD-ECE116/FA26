@@ -1,8 +1,8 @@
 # Lecture PDFs
 
-M00-M03 are approved lecture PDFs. M00 was locked September 6, M01-M02 on September 10, and M03
-on September 11, 2026. M03 received a minor slide correction on September 12. M04-M05 remain early
-previews. Later lecture PDFs remain unreleased.
+M00-M05 are approved lecture PDFs. M00 was locked September 6, M01-M02 on September 10, M03 on
+September 11, and M04-M05 on September 12, 2026. M03 received a minor slide correction on
+September 12. Later lecture PDFs remain unreleased.
 
 | Module | PDF | Pages |
 |---|---|---:|
@@ -13,6 +13,6 @@ previews. Later lecture PDFs remain unreleased.
 | M04 | [Learning Patterns from Examples](M04_Learning_Patterns_from_Examples.pdf) | 27 |
 | M05 | [What Counts as Evidence](M05_What_Counts_as_Evidence.pdf) | 18 |
 
-These are static slide exports, without speaker notes or editable source files. M04-M05 remain
-under instructor review. Use the [Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus)
+These are static slide exports, without speaker notes or editable source files. Use the
+[Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus)
 for course policy and the released assignment handouts for hardware and tool settings.
