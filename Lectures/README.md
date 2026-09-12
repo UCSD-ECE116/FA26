@@ -2,7 +2,8 @@
 
 M00-M05 are approved lecture PDFs. M00 was locked September 6, M01-M02 on September 10, M03 on
 September 11, and M04-M05 on September 12, 2026. M03 received a minor slide correction on
-September 12. Later lecture PDFs remain unreleased.
+September 12. M05 received a corrected PDF export on September 12. Later lecture PDFs remain
+unreleased.
 
 | Module | PDF | Pages |
 |---|---|---:|
