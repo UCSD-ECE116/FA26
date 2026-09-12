@@ -13,9 +13,9 @@ Lecture slides are released seven days before the lecture. Assignment handouts a
 The following materials are available:
 
 - [A1: Deterministic Embedded Intelligence](Assignments/A1/README.md)
-- [Lecture PDFs: approved M00-M06](Lectures/README.md)
+- [Lecture PDFs: approved M00-M07](Lectures/README.md)
 
-M00-M06 are approved and locked. The Canvas syllabus remains the course policy
+M00-M07 are approved and locked. The Canvas syllabus remains the course policy
 reference. A2-A5 packages and later lectures remain unreleased and keep their planned release dates.
 
 | Assignment | Package preview date | Assigned/start date | Due, 7 p.m. Pacific |

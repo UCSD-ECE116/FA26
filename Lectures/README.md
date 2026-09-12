@@ -1,7 +1,7 @@
 # Lecture PDFs
 
-M00-M06 are approved lecture PDFs. M00 was locked September 6, M01-M02 on September 10, M03 on
-September 11, and M04-M06 on September 12, 2026. M03 received a minor slide correction on
+M00-M07 are approved lecture PDFs. M00 was locked September 6, M01-M02 on September 10, M03 on
+September 11, and M04-M07 on September 12, 2026. M03 received a minor slide correction on
 September 12. M05 received a corrected PDF export on September 12. Later lecture PDFs remain
 unreleased.
 
@@ -14,6 +14,7 @@ unreleased.
 | M04 | [Learning Patterns from Examples](M04_Learning_Patterns_from_Examples.pdf) | 27 |
 | M05 | [What Counts as Evidence](M05_What_Counts_as_Evidence.pdf) | 18 |
 | M06 | [Classification Thresholds and Operating Points](M06_Classification_Thresholds_and_Operating_Points.pdf) | 22 |
+| M07 | [Streaming Predictions to Events](M07_Streaming_Predictions_to_Events.pdf) | 14 |
 
 These are static slide exports, without speaker notes or editable source files. Use the
 [Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus)
