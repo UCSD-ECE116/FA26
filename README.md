@@ -13,9 +13,9 @@ Lecture slides are released seven days before the lecture. Assignment handouts a
 The following materials are available:
 
 - [A1: Deterministic Embedded Intelligence](Assignments/A1/README.md)
-- [Lecture PDFs: approved M00-M07](Lectures/README.md)
+- [Lecture PDFs: approved L00-L07](Lectures/README.md)
 
-M00-M07 are approved and locked. The Canvas syllabus remains the course policy
+L00-L07 are approved and locked. The Canvas syllabus remains the course policy
 reference. A2-A5 packages and later lectures remain unreleased and keep their planned release dates.
 
 | Assignment | Package preview date | Assigned/start date | Due, 7 p.m. Pacific |
@@ -30,6 +30,11 @@ A1 was released early on September 6 at the instructor's request. Its Canvas ava
 remains September 17.
 
 The Canvas syllabus defines the automatic grace period, late deduction, and Monday hard close. Each assignment contributes 16% of the course grade; the individually scheduled oral examination contributes 20%. There is no participation grade.
+
+Lectures use L00-L19. December 1 and December 3 are A5 open work. Individually scheduled
+30-minute 1:1 oral examinations take place during Week 10 (November 30-December 4).
+No exams are scheduled during finals week. A5 remains due December 4 at 7 p.m. Pacific,
+with its December 7 at 7 p.m. hard close unchanged.
 
 ## Repository boundary
 

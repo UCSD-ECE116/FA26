@@ -1,20 +1,20 @@
 # Lecture PDFs
 
-M00-M07 are approved lecture PDFs. M00 was locked September 6, M01-M02 on September 10, M03 on
-September 11, and M04-M07 on September 12, 2026. M03 received a minor slide correction on
-September 12. M05 received a corrected PDF export on September 12. Later lecture PDFs remain
+L00-L07 are approved lecture PDFs. L00 was locked September 6, L01-L02 on September 10, L03 on
+September 11, and L04-L07 on September 12, 2026. L03 received a minor slide correction on
+September 12. L05 received a corrected PDF export on September 12. Later lecture PDFs remain
 unreleased.
 
-| Module | PDF | Pages |
+| Lecture | PDF | Pages |
 |---|---|---:|
-| M00 | [Class Introduction](M00_Class_Introduction.pdf) | 16 |
-| M01 | [Programming Responsive Hardware](M01_Programming_Responsive_Hardware.pdf) | 21 |
-| M02 | [Reading Inputs and Controlling Outputs](M02_Reading_Inputs_and_Controlling_Outputs.pdf) | 21 |
-| M03 | [Responding to Events with State Machines](M03_Responding_to_Events_with_State_Machines.pdf) | 22 |
-| M04 | [Learning Patterns from Examples](M04_Learning_Patterns_from_Examples.pdf) | 27 |
-| M05 | [What Counts as Evidence](M05_What_Counts_as_Evidence.pdf) | 18 |
-| M06 | [Classification Thresholds and Operating Points](M06_Classification_Thresholds_and_Operating_Points.pdf) | 22 |
-| M07 | [Streaming Predictions to Events](M07_Streaming_Predictions_to_Events.pdf) | 14 |
+| L00 | [Class Introduction](L00_Class_Introduction.pdf) | 16 |
+| L01 | [Programming Responsive Hardware](L01_Programming_Responsive_Hardware.pdf) | 21 |
+| L02 | [Reading Inputs and Controlling Outputs](L02_Reading_Inputs_and_Controlling_Outputs.pdf) | 21 |
+| L03 | [Responding to Events with State Machines](L03_Responding_to_Events_with_State_Machines.pdf) | 22 |
+| L04 | [Learning Patterns from Examples](L04_Learning_Patterns_from_Examples.pdf) | 27 |
+| L05 | [What Counts as Evidence](L05_What_Counts_as_Evidence.pdf) | 18 |
+| L06 | [Classification Thresholds and Operating Points](L06_Classification_Thresholds_and_Operating_Points.pdf) | 22 |
+| L07 | [Streaming Predictions to Events](L07_Streaming_Predictions_to_Events.pdf) | 14 |
 
 These are static slide exports, without speaker notes or editable source files. Use the
 [Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus)
