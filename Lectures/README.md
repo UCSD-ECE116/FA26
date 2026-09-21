@@ -1,7 +1,8 @@
 # Lecture PDFs
 
-September 20: L00 has the authorized four-assignment/final-project policy revision, including
-75/25 grading, Week 0 brief access, and no oral examination. It remains 16 pages.
+September 20: L00 reflects the approved final-project handout and three-file submission,
+including the report page allocation, classifier requirements, and 75/25 grading. It remains
+16 pages; release fa26-m00-v1.0.2.
 
 L00-L07 are approved lecture PDFs. L00 was locked September 6, L01-L02 on September 10, L03 on
 September 11, and L04-L07 on September 12, 2026. L03 received a minor slide correction on
