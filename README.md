@@ -12,6 +12,8 @@ Lecture slides are released seven days before the lecture. Assignment handouts a
 
 The following materials are available:
 
+- [Lab 0: Kit and board setup (PDF)](Course/Lab_0/Lab_0_Handout.pdf)
+  · [Text version](Course/Lab_0/Lab_0_Handout.md)
 - [Final-project brief and rubric](Final_Project/Final_Project_Brief.md)
 - [Optional project direction modules](Final_Project/Project_Directions.md)
 - [September 20 syllabus PDF](<Course/Syllabus ECE116 FA26 - Rebuilt.pdf>)
