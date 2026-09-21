@@ -179,7 +179,7 @@ evaluation. The records must allow a reviewer to trace the report’s claims to 
 
 ### Report format and communication
 
-Submit `Final_Project_<First>_<Last>.pdf` containing **four technical pages**, followed by **one
+Submit `Final_Project_<student-id>.pdf` containing **four technical pages**, followed by **one
 page describing AI use** and **one reference page**. The technical pages include your writing,
 figures, and tables. Do not add a cover page or further appendices.
 
@@ -201,7 +201,7 @@ technical pages. Include all six pages in one PDF.
 
 ### Video demonstration
 
-Submit `Final_Project_<First>_<Last>.mp4`, lasting 3–5 minutes. **The video’s purpose is to show
+Submit `Final_Project_<student-id>.mp4`, lasting 3–5 minutes. **The video’s purpose is to show
 the functioning system.** Make the real sensor input, device, gate behavior, and useful end-action
 observable. Include:
 
@@ -219,7 +219,7 @@ video to combine demonstrations, but it must accurately represent the behavior y
 
 ### Trial-data file
 
-Submit `Final_Project_<First>_<Last>_Trial_Data.zip` containing the measurement records used in
+Submit `Final_Project_<student-id>_Trial_Data.zip` containing the measurement records used in
 your report and a short description of how you collected and interpreted them. CSV files and
 recorded device/application traces are suitable. Include the class scores needed to reproduce
 the classifier metrics and the ordered event records needed to understand the gate. A separate

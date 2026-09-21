@@ -1,6 +1,6 @@
 # Final project materials
 
-Release: `fa26-final-project-v1.1.0`, approved September 20, 2026.
+Release: `fa26-final-project-v1.1.1`, approved September 20, 2026; student-ID filenames corrected September 21, 2026.
 
 - [Handout PDF](Final_Project_Handout.pdf)
 - [Handout text](Final_Project_Handout.md)
