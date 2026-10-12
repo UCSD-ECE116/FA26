@@ -6,8 +6,7 @@ including the report page allocation, classifier requirements, and 75/25 grading
 
 L00-L07 are approved lecture PDFs. L00 was locked September 6, L01-L02 on September 10, L03 on
 September 11, and L04-L07 on September 12, 2026. L03 received a minor slide correction on
-September 12. L05 received a corrected PDF export on September 12. Later lecture PDFs remain
-unreleased.
+September 12. L05 received a corrected PDF export on September 12. L08 was approved and published October 12 for the October 13 lecture. L09 and later PDFs remain unreleased.
 
 | Lecture | PDF | Pages |
 |---|---|---:|
@@ -19,6 +18,7 @@ unreleased.
 | L05 | [What Counts as Evidence](L05_What_Counts_as_Evidence.pdf) | 18 |
 | L06 | [Classification Thresholds and Operating Points](L06_Classification_Thresholds_and_Operating_Points.pdf) | 22 |
 | L07 | [Streaming Predictions to Events](L07_Streaming_Predictions_to_Events.pdf) | 14 |
+| L08 | [Neural Networks and Deep Learning](L08_Neural_Networks_and_Deep_Learning.pdf) | 57 |
 
 These are static slide exports, without speaker notes or editable source files. Use the
 [Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus)
