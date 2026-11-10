@@ -21,14 +21,14 @@ The following materials are available:
 - [Lecture PDFs: approved L00-L07](Lectures/README.md)
 
 L00-L07 are approved and locked. The Canvas syllabus remains the course policy
-reference. A2-A4 packages and later lectures remain unreleased and keep their planned release dates.
+reference. See the assignment folders and Canvas for released packages. [A4 is now released](Assignments/A4/README.md).
 
 | Assignment | Package preview date | Assigned/start date | Due, 7 p.m. Pacific |
 |---|---|---|---|
 | A1 | September 17 | September 24 | October 9 |
 | A2 | October 2 | October 9 | October 23 |
 | A3 | October 16 | October 23 | November 6 |
-| A4 | October 30 | November 6 | November 20 |
+| A4 | Released November 10 | November 9 | November 20, 5 p.m. Pacific |
 | Final project | Start of quarter | Dedicated work after A4, November 20 | December 4 |
 
 A1 was released early on September 6 at the instructor's request. Its Canvas availability date
