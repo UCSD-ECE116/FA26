@@ -23,6 +23,8 @@ September 12. L05 received a corrected PDF export on September 12. L08 was appro
 | L10 | [Training Neural Networks with Keras](L10_Keras_Training_and_Image_Classification.pdf) | 55 |
 | L11 | [Image Classification and Transfer Learning](L11_Image_Classification_and_Transfer_Learning.pdf) | 42 |
 | L11 | [Convolutional Neural Networks (animated PowerPoint)](L11_Convolutional_Neural_Networks.pptx) | 67 |
+| L12 | [ML Workflow and TensorFlow Lite](L12_Embedded_Inference_Resources_and_Model_Artifacts.pdf) | 128 |
+| L13–L15 | [Embedded Inference and Efficient CNNs](L13-L15_Model_Optimization_and_Benchmarking.pdf) | 114 |
 
 L11 includes an animated PowerPoint; open it in PowerPoint Slide Show mode to see the animations. Other linked files are PDF exports. Use the
 [Canvas syllabus and quarter schedule](https://canvas.ucsd.edu/courses/78439/assignments/syllabus)
